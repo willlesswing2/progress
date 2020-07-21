@@ -34,12 +34,30 @@ margin-left: 25%;
 
 }
 
-.fakeimg {
+.fakeimg#image1 {
   height: 200px;
-  background: #aaa;
+  background-image: url(../assets/img/organization.jpeg);
+  background-size: cover;
+}
+.fakeimg#image2 {
+  height: 500px;
+  background-image: url(../assets/img/news.jpg);
+  background-size: cover;
 }
 
 .progressBar{
   padding: 25px 2px;
   height: 220px;
 }
+div#topbar {
+  background-image: url(../assets/img/CETAP_LUCY.jpg);
+  background-size: cover;
+  height: 290px;
+}
+h1#header {
+color: #fff;
+}
+p#header {
+color: #fff;
+}
+
