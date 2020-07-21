@@ -23,8 +23,11 @@
 .progress-bars-seven:before{position: absolute; content: ""; border: solid 5px #595959; border-width: 5px 0px 0px 5px; width: 70px; height: 70px; top: -9px; left: -9px; bottom: -9px; right: -9px; z-index: 10;}
 .progress-bars-seven:after{position: absolute; content: ""; border: solid 5px #2bb0ef; border-width: 5px 5px 5px 5px; width: 140px; height: 140px; top: -9px; left: -9px; bottom: -9px; right: -9px;}
  body {
-  background-image: url(https://lh3.googleusercontent.com/proxy/nIHQZQW3inbWKn-u5XjiV7KEiEGuNuxGlvgqpfvb3prqQURZhxAenzQ8VCIwCxUu9k2Nkbiz1pUi-ln-_0Ypu78UHVC-EYI146SR6TyIU4YHK315grG7Y9j-JhqnpTCpEaYmn5QFfVkaorU_);
+  background-image: url(../assets/img/HOG\ backround.jpg);
   background-size: cover;
+  background-size: 160%;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 h1#title {
 font-weight: 800;
