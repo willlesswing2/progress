@@ -33,3 +33,13 @@ position: relative;
 margin-left: 25%;
 
 }
+
+.fakeimg {
+  height: 200px;
+  background: #aaa;
+}
+
+.progressBar{
+  padding: 25px 2px;
+  height: 220px;
+}
