@@ -67,3 +67,10 @@ color: #fff;
 p#header {
 color: #fff;
 }
+
+div#header p {
+font-style: bold;
+}
+.col-sm-3 p {
+  font: bold;
+}
