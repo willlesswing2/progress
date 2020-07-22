@@ -22,13 +22,16 @@
 .progress-bars-seven h2 { line-height: 120px; text-align: center; transform: rotate(-45deg);}
 .progress-bars-seven:before{position: absolute; content: ""; border: solid 5px #595959; border-width: 5px 0px 0px 5px; width: 70px; height: 70px; top: -9px; left: -9px; bottom: -9px; right: -9px; z-index: 10;}
 .progress-bars-seven:after{position: absolute; content: ""; border: solid 5px #2bb0ef; border-width: 5px 5px 5px 5px; width: 140px; height: 140px; top: -9px; left: -9px; bottom: -9px; right: -9px;}
- body {
+
+body {
   background-image: url(../assets/img/HOG\ backround.jpg);
   background-size: cover;
   background-size: 160%;
   background-repeat: no-repeat;
   background-position: center;
+
 }
+
 h1#title {
 font-weight: 800;
 align-items: right;
@@ -43,7 +46,8 @@ margin-left: 25%;
   background-size: cover;
 }
 .fakeimg#image2 {
-  height: 500px;
+  height: 400px;
+  width: 700px;
   background-image: url(../assets/img/news.jpg);
   background-size: cover;
 }
@@ -55,7 +59,7 @@ margin-left: 25%;
 div#topbar {
   background-image: url(../assets/img/CETAP_LUCY.jpg);
   background-size: cover;
-  height: 290px;
+  height: 280px;
 }
 h1#header {
 color: #fff;
@@ -63,4 +67,3 @@ color: #fff;
 p#header {
 color: #fff;
 }
-
